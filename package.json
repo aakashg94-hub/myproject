@@ -1,4 +1,7 @@
 {
+  "scripts": {
+  "start": "node server.js"
+}
   "name": "myproject",
   "version": "1.0.0",
   "description": "",
