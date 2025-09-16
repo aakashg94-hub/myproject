@@ -1,7 +1,4 @@
 {
-  "scripts": {
-  "start": "node server.js"
-}
   "name": "myproject",
   "version": "1.0.0",
   "description": "",
@@ -15,6 +12,9 @@
     "mssql": "^11.0.1"
     "engines": {
   "node": "18.x"
+}
+    "scripts": {
+  "start": "node server.js"
 }
   }
 }
