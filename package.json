@@ -1,8 +1,4 @@
-
 {
-      "engines": {
-  "node": "20.x"
-}
   "name": "myproject",
   "version": "1.0.0",
   "description": "",
